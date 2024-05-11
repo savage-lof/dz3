@@ -1,16 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "Crystal Keeper",
-    "description": "Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космослизней.",
-    "image": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png",
-    "link": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html"
-  },
-  {
-    "id": 2,
-    "title": "Dangeons'n'Caves. Prologue",
-    "description": "Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.",
-    "image": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png",
-    "link": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html"
-  }
-]
+[{"id":1,"title":"Crystal Keeper","description":"Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космослизней.","image":"https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png","link":"https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html"},{"id":2,"title":"Dangeons'n'Caves. Prologue","description":"Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.","image":"https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png","link":"https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html"},{"id":3,"title":"бубу","image":"https://i.pinimg.com/originals/e8/8f/30/e88f3028afe762960b7a2c11837b34d1.jpg","link":"https://i.pinimg.com/originals/e8/8f/30/e88f3028afe762960b7a2c11837b34d1.jpg","description":"бубу"}]
